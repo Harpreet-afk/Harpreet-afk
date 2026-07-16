@@ -29,3 +29,7 @@
 <h3 align="left">Support:</h3>
 <p><a href="https://www.buymeacoffee.com/coffee_please;)"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="coffee_please;)" /></a></p><br><br>
 <br>
+
+<div align="center">
+<img src="https://github.com/Harpreet-afk/Harpreet-afk/blob/main/connected.gif" alt="GitHub Logo" width="150" height="150" />
+</div>
