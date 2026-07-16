@@ -1,5 +1,5 @@
 <div align="center">
-<img src="https://github.com/harpreet-afk/harpreet-afk/blob/master/octo.gif" alt="GitHub Logo" width="150" height="150" />
+<img src="https://github.com/Harpreet-afk/Harpreet-afk/blob/main/octo.gif" alt="GitHub Logo" width="150" height="150" />
 </div>
 <h1 align="center">Hi, Moi Harpreet Singh Bawa <img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExbnk3b3J4dXBzdTc5eXA4eG1mbmVmYThoejMwMTJuOHduMW85a3N5cyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/10zqZdDa2BKNeU/giphy.gif" width="50"></h1>
 <h3 align="center">Best of Both Worlds: Materials × AI</h3>
