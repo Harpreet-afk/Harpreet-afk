@@ -18,7 +18,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/harpreet singh bawa" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="harpreet singh bawa" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/Harpreet Singh Bawa" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="harpreet singh bawa" height="30" width="40" /></a>
 <a href="https://kaggle.com/harpreetsinghbawa" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="harpreetsinghbawa" height="30" width="40" /></a>
 <a href="https://instagram.com/2.harpreet.2" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="2.harpreet.2" height="30" width="40" /></a>
 </p>
