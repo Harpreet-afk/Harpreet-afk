@@ -26,7 +26,3 @@
 <h3 align="left">Support:</h3>
 <p><a href="https://www.buymeacoffee.com/coffee_please;)"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="coffee_please;)" /></a></p><br><br>
 <br>
-
-    <img src="https://cultofthepartyparrot.com/parrots/hd/hypnoparrotdark.gif" width="30" height="30"/>
-    <img src="https://cultofthepartyparrot.com/parrots/hd/mustacheparrot.gif" width="30" height="30"/>
-</div>
